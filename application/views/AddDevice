@@ -1,0 +1,72 @@
+<!-- ________________________RECENT DEVICE SECTION _______________________-->
+<div class="allcontain">
+	<div class="feturedsection">
+		<h1 class="text-center"><span class="bdots"></span>P R O F I L E<span class="carstxt"></span></h1>
+	</div>
+<div class="container">
+  <div class="container">
+  	<hr>
+	<div class="row">
+      <!-- left column -->
+      <div class="col-md-3">
+        <div class="text-center">
+          
+          
+          
+        </div>
+      </div>
+      
+      <!-- edit form column -->
+      
+          <a class="panel-close close" data-dismiss="alert"></a> 
+          </div>
+        <form class="form-horizontal" role="form">
+          <div class="form-group">
+            <label class="col-lg-3 control-label">Name:</label>
+            <div class="col-lg-8">
+              <input class="form-control" value="" type="text">
+            </div>
+          </div>
+          <div class="form-group">
+            <label class="col-lg-3 control-label">Type:</label>
+            <div class="col-lg-8">
+              <input class="form-control" value="" type="text">
+            </div>
+          </div>
+          <div class="form-group">
+            <label class="col-lg-3 control-label">Company:</label>
+            <div class="col-lg-8">
+              <input class="form-control" value="" type="text">
+            </div>
+          </div>
+          <div class="form-group">
+            <label class="col-lg-3 control-label">Email:</label>
+            <div class="col-lg-8">
+              <input class="form-control" value="" type="text">
+            </div>
+          </div>
+            <div class="form-group">
+            <label class="col-lg-3 control-label">Username:</label>
+            <div class="col-lg-8">
+              <input class="form-control" value="" type="text">
+            </div>
+          </div>
+          
+          </div>
+          
+          </div>
+          <div class="form-group">
+            <label class="col-md-3 control-label"></label>
+            <div class="col-md-8">
+              <input class="btn btn-primary" value="Save Changes" type="button">
+              <span></span>
+              <input class="btn btn-default" value="Cancel" type="reset">
+            </div>
+          </div>
+        </form>
+      </div>
+  </div>
+</div>
+<hr>            
+  
+</div>
